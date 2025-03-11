@@ -1,0 +1,28 @@
+{
+  "name": "agent-ollama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/html-to-text": "^9.0.4",
+    "@types/node": "^22.13.9",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "html-to-text": "^9.0.5",
+    "lowdb": "^7.0.1",
+    "ollama": "^0.5.14",
+    "ora": "^8.2.0",
+    "puppeteer": "^24.4.0"
+  }
+}
