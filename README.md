@@ -15,6 +15,9 @@ For Tool Calling,
 For summarizing,
 `DeepseekR1` for the summarizing
 
+![newsaggregator](https://github.com/user-attachments/assets/2a61cf04-dd13-4b05-b74a-3322f6c79818)
+
+
 To run it locally,
 
 Pre-req
@@ -30,6 +33,8 @@ For project,
 Disclaimer: ⚠️ UX is not that great, it was more of an experiment than a real product :)
 
 To play around with different tooling models locally, checkout https://ollama.com/search?c=tools
+
+
 
 ### Extensions that can be made:
 
